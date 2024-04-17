@@ -211,7 +211,7 @@ export default {
     },
 
     "menuPageText3-1": {
-        "en": "Starters",
+        "en": "Starter",
         "zh": "前菜",
         "pt": "Entrada"
     },
