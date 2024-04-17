@@ -289,7 +289,7 @@ export default {
     },
 
     "menuPageText4-1": {
-        "en": "To starter",
+        "en": "Starter",
         "zh": "前菜",
         "pt": "Entrada"
     },
