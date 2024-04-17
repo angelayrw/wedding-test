@@ -35,6 +35,8 @@ idName.forEach((key) => {
     idNames.push(key);
 });
 
+// console.log(idNames)
+
 //check user's navigator language and use it as default language//
 
 var userLanguage = navigator.language || navigator.userLanguage; 

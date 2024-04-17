@@ -93,7 +93,7 @@ export default {
     "schedulePageText3": {
         "en": "Guests are invited to gather at the Walnut Tree Court prior to the ceremony. Please enter the college through the Porter’s Lodge on Silver Street, where directions will be provided.",
         "zh": "在仪式前，我们邀请宾客们在胡桃树庭院（Walnut Tree Court）聚集。请通过银街（Silver Street）上的门房（Porter’s Lodge）进入学院，那里的工作人员将为您提供方向指引。",
-        "pt": "Os convidados são convidados a se reunir no Jardim da Nogueira (Walnut Tree Court) antes da cerimônia. Por favor, entre no colégio através da portaria na Rua Silver, onde orientações serão fornecidas."
+        "pt": "Os convidados são chamados a se reunir no Jardim da Nogueira (Walnut Tree Court) antes da cerimônia. Por favor, entre no colégio através da portaria na Rua Silver, onde orientações serão fornecidas."
     },
     
     "schedulePageText4-1": {
@@ -111,7 +111,7 @@ export default {
     "schedulePageText5": {
         "en": "The wedding ceremony will take place in the chapel. Confetti will be provided for a celebratory moment following the ceremony.",
         "zh": "婚礼仪式将在教堂举行。仪式后我们将提供礼花，以示庆祝。",
-        "pt": "A cerimônia de casamento acontecerá na capela. Uma celebração com confete será feita na sequência, na famosa ponte Matemática, sobre o Rio Cam."
+        "pt": "A cerimônia de casamento acontecerá na capela. Uma celebração com confetes será feita na sequência, na famosa ponte Matemática, sobre o Rio Cam."
     },
     
     "schedulePageText6-1": {
@@ -129,7 +129,7 @@ export default {
     "schedulePageText7": {
         "en": "Join us for a cocktail reception with canapés in the Old Court. This will be an opportunity for guests to take photographs with the couple.",
         "zh": "我们将在中古庭院（Old Court）准备鸡尾酒茶歇，并提供小食。欢迎您前往与新人合影。",
-        "pt": "Junte-se a nós para uma recepção com coquetéis e canapés no Jardim Antigo (Old Court). Esta será uma oportunidade para os convidados tirarem fotografias com o casal."
+        "pt": "Junte-se a nós para coquetéis e canapés no Jardim Antigo (Old Court). Esta será uma oportunidade para os convidados tirarem fotografias com o casal."
     },
     
     "schedulePageText8-1": {
@@ -183,7 +183,7 @@ export default {
     "schedulePageText12": {
         "en": "* The dress code for our wedding is semi-formal/cocktail attire. Think cocktail dresses or a suit and tie or a jacket.",
         "zh": "* 我们婚礼的着装要求为半正式/鸡尾酒装，例如鸡尾酒裙，茶歇裙，西装领带或休闲外套。",
-        "pt": "* O código de vestimenta para nosso casamento é semi-formal/traje de coquetel. Pense em vestidos de coquetel, um terno e gravata, ou um paletó esportivo."
+        "pt": "* O código de vestimenta para nosso casamento é semi-formal/traje de coquetel. Pense em vestidos de coquetel, um terno com ou sem gravata, ou um paletó esportivo."
     },
     
     "schedulePageText13": {
@@ -195,13 +195,13 @@ export default {
     "menuPageText1": {
         "en": "We are delighted to offer a three-course menu for our wedding dinner, complemented with a vegetarian option. Please let us know your preferred choice.",
         "zh": "我们很高兴为您提供传统的三道式晚宴，包括素食菜单。请告知您的选择。",
-        "pt": "Estamos felizes em oferecer um menu de três pratos para o jantar de nosso casamento, com uma opção alternativa vegetariana. Por favor, nos informe sua escolha preferida."
+        "pt": "Estamos felizes em oferecer um menu de três pratos para nossos convidados, com uma opção alternativa vegetariana. Por favor, nos informe sua escolha preferida."
     },
     
     "menuPageText2": {
         "en": "If you have any allergy or specific dietary requirements, please inform the couple in advance.",
         "zh": "如果您有过敏或特殊的饮食要求，请提前告知。",
-        "pt": "Se você tiver qualquer alergia ou requisito dietético específico, por favor, informe o casal antecipadamente que podemos coordenar com o time para melhor lhe atender."
+        "pt": "Se você tiver qualquer alergia ou requisito dietético específico, favor nos informar antecipadamente para que possamos coordenar com o time para melhor lhe atender."
     },
 
     "menuPageText3": {
@@ -211,7 +211,7 @@ export default {
     },
 
     "menuPageText3-1": {
-        "en": "To start",
+        "en": "Starters",
         "zh": "前菜",
         "pt": "Entrada"
     },
@@ -219,13 +219,13 @@ export default {
     "menuPageText3-2-1": {
         "en": "Confit Duck à l'Orange Rillette (Df/Gf)",
         "zh": "香橙鸭脯肉酱",
-        "pt": "Rillette de Pato Confitado à l'Orange (Df/Gf)"
+        "pt": "Rillette de Pato Confitado à l'Orange (LL/SG)"
     },
 
     "menuPageText3-2-2": {
         "en": "with Blood Orange Jelly, Grated Bitter Dark Chocolate and Watercress",
         "zh": "配血橙果冻、黑巧克力末和西洋菜",
-        "pt": "com Geleia de Laranja Sanguínea, Chocolate Amargo Ralado e Agrião"
+        "pt": "com Geleia de Toranja, Chocolate Amargo Ralado e Agrião"
     },
 
     "menuPageText3-3": {
@@ -249,7 +249,7 @@ export default {
     "menuPageText3-5-2": {
         "en": "with Saffron and Charred Red Pepper Risotto, Sugar Snap Peas, Braised Baby Leeks, Burnt Lemon, Beetroot Crisps and Saffron Cream Sauce",
         "zh": "配烤红椒饭、甜豆荚、炖嫩葱、烤柠檬、甜菜脆片和藏红花奶油酱",
-        "pt": "com Risoto de Açafrão e Pimentão Vermelho Assado, Ervilhas Tortas, Alho-poró Baby Refogado, Limão Queimado, Chips de Beterraba e Molho de Creme de Açafrão"
+        "pt": "com Risoto de Açafrão e Pimentão Vermelho Assado, Ervilhas, Alho-poró Refogado, Limão Tostado, Chips de Beterraba e Molho de Creme de Açafrão"
     },
 
     "menuPageText3-6": {
@@ -273,7 +273,7 @@ export default {
     "menuPageText3-8-2": {
         "en": "with Bitter Chocolate Shortbread Spoon",
         "zh": "配黑巧克力酥饼",
-        "pt": "com Colher de Shortbread de Chocolate Amargo"
+        "pt": "com Biscoito de Chocolate Amargo"
     },
 
     "menuPageText3-9": {
@@ -285,7 +285,7 @@ export default {
     "menuPageText4": {
         "en": "Vegetarian Menu",
         "zh": "素食菜单",
-        "pt": "Menu Vegatariano"
+        "pt": "Menu Vegetariano"
     },
 
     "menuPageText4-1": {
@@ -297,7 +297,7 @@ export default {
     "menuPageText4-2-1": {
         "en": "Chickpea and Courgette Falafel (V/Ve/Gf)",
         "zh": "鹰嘴豆和西葫芦炸丸子",
-        "pt": "Falafel de Grão-de-Bico e Courgette (V/Ve/Gf)"
+        "pt": "Falafel de Grão-de-Bico e Abobrinha (V/Ve/Gf)"
     },
     
     "menuPageText4-2-2": {
@@ -351,7 +351,7 @@ export default {
     "menuPageText4-8-2": {
         "en": "with Bitter Chocolate Shortbread Spoon",
         "zh": "配黑巧克力酥饼",
-        "pt": "com Colher de Shortbread de Chocolate Amargo"
+        "pt": "com Biscoito de Chocolate Amargo"
     },
 
     "menuPageText4-9": {
@@ -381,7 +381,7 @@ export default {
     "menuPageText5-1-2": {
         "en": "with French Fries & Baked Beans",
         "zh": "配薯条和茄汁烤豆",
-        "pt": "com Batatas Fritas e Feijão Assado"
+        "pt": "com Batatas Fritas e Feijão ao Tomate"
     },
     
     "menuPageText5-2": {
@@ -405,7 +405,7 @@ export default {
     "menuPageText6-1": {
         "en": "Spiced Peri-Peri Chicken Thighs, Lemon Mayonnaise",
         "zh": "香辣秘鲁鸡腿配柠檬蛋黄酱",
-        "pt": "Coxas de Frango Peri-Peri Temperadas com Maionese de Limão"
+        "pt": "Coxas de Frango Piri-Piri Temperadas com Maionese de Limão"
     },
 
     "menuPageText6-2": {
@@ -417,7 +417,7 @@ export default {
     "menuPageText6-3": {
         "en": "Devon White Crab Bon Bons, Lime & Chilli Mayonnaise",
         "zh": "德文郡白蟹丸子配青柠辣椒蛋黄酱",
-        "pt": "Bon Bons de Caranguejo Branco de Devon, Maionese de Lima e Chili"
+        "pt": "Bombons de Caranguejo Branco de Devon, Maionese de Lima e Chili"
     },
 
     "menuPageText6-4": {
@@ -435,7 +435,7 @@ export default {
     "infoPageText1-1": {
         "en": "For those unfamiliar with Cambridge's college system, colleges are smaller academic communities within the larger university, each with its own accommodation, dining halls, and social spaces. (Yes, the Harry Potter series drew inspiration from this system!) We've chosen Cambridge and Queens' College because it holds a special place in our hearts - it's where we met, and where we forged great friendships. With almost 600 years of history, Queens' embodies the essence of Cambridge's academic excellence and tradition. If you'd like to learn more about Queens' College, please visit ",
         "zh": "如果您不熟悉剑桥大学的学院制度：学院是剑桥大学中独立的学术社区，每个学院都有自己的住宿、餐厅和社交空间。（是的，哈利·波特的学院制度是从这里汲取的灵感！）我们选择了剑桥大学皇后学院，因为它在我们心中有特殊的意义 - 这是我们学习和结识的地方。有着近600年的历史，皇后学院是剑桥学术和传统的代表。如果您想了解更多有关皇后学院的信息，请访问网站 ",
-        "pt": "Para aqueles não familiarizados com o sistema colegial de Cambridge, os colégios são comunidades acadêmicas menores dentro da universidade, cada um com suas próprias acomodações, salas de jantar e espaços sociais.(Sim, a série Harry Potter foi inspirada nesse sistema!) Escolhemos Cambridge e o Queens' College porque ele tem um lugar especial em nossos corações - é onde nos conhecemos e onde forjamos grandes amizades. Com quase 600 anos de história, o Queens' incorpora a essência da excelência acadêmica e tradição de Cambridge. Se você quiser saber mais sobre o Queens' College, por favor, visite o site "
+        "pt": "Para aqueles não familiarizados com o sistema colegial de Cambridge, os colégios são comunidades acadêmicas independentes dentro da universidade, cada um com suas próprias acomodações, refeitórios formais, e espaços sociais.(Sim, a série Harry Potter foi inspirada nesse sistema!) Escolhemos Cambridge e o Queens' College porque ele tem um lugar especial em nossos corações - é onde nos conhecemos e onde forjamos grandes amizades. Com quase 600 anos de história, o Queens' incorpora a essência da excelência acadêmica e tradição de Cambridge. Se você quiser saber mais sobre o Queens' College, por favor, visite o site "
     },
     
     "infoPageText1-2":{
@@ -469,15 +469,27 @@ export default {
     },
     
     "infoPageText2-3": {
-        "en": ". For serviced apartments, ",
-        "zh": "。如果您偏好服务式公寓，",
-        "pt": ". Para apartamentos/flats, "
+        "en": ". You may also check ",
+        "zh": "。您也可以考虑车站附近的",
+        "pt": ". Outras opções são, "
     },
 
     "infoPageText2-4": {
-        "en": " is a recommended option. Queens’ College also offers a limited number of single/twin ensuite rooms; please contact Angela if interested.",
-        "zh": " 可供您参考。 皇后学院可提供一定数量的单/双套间客房。如果感兴趣，请联系Angela。",
-        "pt": " é uma opção recomendada. O Queens’ College também oferece um número limitado de quartos individuais/duplos com banheiro privativo; por favor, entre em contato com Angela se estiver interessado."
+        "en": ", which is close to the train station, and",
+        "zh": "以及",
+        "pt": ", que fica próximo à estação de trem, e "
+    },
+
+    "infoPageText2-5": {
+        "en": ". For serviced apartments, ",
+        "zh": "。如果您偏好服务式公寓，",
+        "pt": "para flats, "
+    },
+
+    "infoPageText2-6": {
+        "en": "  is a recommended option. Queens’ College also offers a limited number of single/twin ensuite rooms; please contact Angela if interested.",
+        "zh": "可供您参考。 皇后学院可提供一定数量的单/双套间客房。如果感兴趣，请联系Angela。",
+        "pt": " é uma opção recomendada. O Queens’ College também oferece um número limitado de quartos individuais/duplos com banheiro privativo; Favor entrar em contato conosco se tiver interesse em reservá-los."
     },
 
     "infoPageText3": {
@@ -489,7 +501,7 @@ export default {
     "infoPageText3-1": {
         "en": "The most convenient way to travel from London to Cambridge is by train. Trains run regularly from King’s Cross, St Pancras, and Liverpool Street stations in London to Cambridge main station. We recommend booking your tickets via ",
         "zh": "从伦敦到剑桥最方便的方式是乘火车。 火车定期从国王十字（Kings Cross）、圣潘克拉斯（St Pancras）和利物浦街车站（Liverpool Street Station）发车至剑桥主站。 我们建议提前预订您的车票，购票链接 ",
-        "pt": "A maneira mais conveniente de viajar de Londres para Cambridge é de trem. Os trens circulam regularmente de Londres a partir das estações King’s Cross, St Pancras e Liverpool Street. Recomendamos reservar seus bilhetes via Trainline"
+        "pt": "A maneira mais conveniente de viajar de Londres para Cambridge é de trem. Os trens circulam regularmente de Londres a partir das estações King’s Cross, St Pancras e Liverpool Street. Recomendamos reservar seus bilhetes via o aplicativo "
     },
     
     "infoPageText3-2": {
@@ -513,7 +525,7 @@ export default {
     "infoPageText4-1": {
         "en": "Cambridge boasts 31 unique colleges. Apart from Queens’, we recommend King’s College, Trinity College, and St John’s College as the most popular ones if you intend to visit them. You may need to purchase tickets onsite at each college. If you have a moment on Friday evening you might want to see if there's an evensong happening at King's College. It's a lovely way to unwind and experience the peaceful ambiance. You may discover the city's cultural heritage at the ",
         "zh": "剑桥共有31所学院。 除皇后学院外，国王学院、三一学院和圣约翰学院是最受游客欢迎的学院。 您可能需要在每个学院现场购买门票。 周五晚上国王学院通常会举办晚祷活动，对公众免费开放。您可以在",
-        "pt": "Cambridge possui 31 faculdades únicas. Além do Queens’, recomendamos o King’s College, Trinity College e St John’s College como os mais populares se você pretende visitá-los. Você pode precisar comprar ingressos no local de cada faculdade. Se você tiver um momento na sexta-feira à noite, pode querer ver se há uma evensong acontecendo no King's College. É uma maneira adorável de relaxar e experimentar a atmosfera tranquila. Você pode descobrir o patrimônio cultural da cidade no "
+        "pt": "Cambridge possui 31 colégios distintos. Além do Queens’, recomendamos o King’s College, Trinity College e St John’s College como os mais populares entre turistas. Você pode precisar comprar ingressos na entrada de cada faculdade. Se você tiver um momento na sexta-feira à noite, recomendamos assistir à canção vespertina do King's College, mundialmente famoso por seu coral. É uma maneira adorável de relaxar e experimentar a atmosfera de Cambridge. Você pode descobrir o patrimônio cultural da cidade no "
     },
 
     "infoPageText4-2": {
@@ -573,7 +585,7 @@ export default {
     "infoPageText5-1": {
         "en": "Cambridge offers a wide range of dining options, from upscale/fine dining to cozy, independent restaurants. As steak lovers, we suggest Maison du Steak on Hill Road. If you're looking for a stunning view paired with a delicious brunch menu, consider dining at Six at the Varsity Hotel. Stick and Sushi was our date night choice at Cambridge. If you're interested in Chinese cuisine, Seven Days (known for Szechuan food) on Regent Street is renowned as one of the late Stephen Hawking's favorites, while Charlie Chan offers authentic Cantonese cuisine. Check ",
         "zh": "剑桥有从高档美食到小众餐厅的各式餐饮选择。 作为牛排爱好者，我们推荐位于Hill Road上的Maison du Steak。如果您喜欢美景和美味的组合，我们推荐位于Varsity酒店的Six餐厅。 Stick and Sushi是我们在剑桥常去的约会餐厅。 如果您对中国菜感兴趣，Regent Street上的天天川菜馆是斯蒂芬·霍金生前的最爱，万里云则提供地道的港式料理。 查看",
-        "pt": "Cambridge oferece uma ampla variedade de opções gastronômicas, desde jantares finos até restaurantes independentes aconchegantes. Como amantes de carne, sugerimos o Maison du Steak, com excelentes fritas. Se você procura uma vista deslumbrante acompanhada de um delicioso menu de brunch, considere o restaurante Six, no Varsity Hotel. O Sticks 'n' Sushi foi nossa escolha para nosso último encontro em Cambridge. E se você estiver interessado em culinária chinesa, o Seven Days na Regent Street é famoso por ser um dos favoritos do falecido Stephen Hawking. Consulte o "
+        "pt": "Cambridge oferece uma ampla variedade de opções gastronômicas, desde jantares finos até restaurantes independentes aconchegantes. Como amantes de carne, sugerimos o Maison du Steak, com excelentes batatas fritas. Se você procura uma vista deslumbrante acompanhada de um delicioso menu de brunch, considere o restaurante Six, no Varsity Hotel. O Sticks 'n' Sushi foi nossa escolha para nosso último encontro em Cambridge, um ótimo restaurante japonês. E se você estiver interessado em culinária chinesa, o Seven Days na Regent Street é famoso por ser um dos favoritos do falecido Stephen Hawking. Consulte o "
     },
     
     "infoPageText5-2": {
@@ -591,18 +603,18 @@ export default {
     "contactPageText1": {
         "en": "Venue Address:",
         "zh": "婚礼地址",
-        "pt": ""
+        "pt": "Endereço"
     },
     
     "contactPageText3": {
         "en": "Social Media:",
         "zh": "社交媒体",
-        "pt": ""
+        "pt": "Mídia Social"
     },
     
     "contactPageText3-1": {
         "en": "We plan to set up a WhatsApp group and a wechat group. Please come back to this page for QR code prior to the wedding date.",
         "zh": "我们将在婚礼前建立一个微信和WhatsApp群以便与宾客们分享信息。请在婚礼日期之前回到此页面查看二维码。",
-        "pt": ""
+        "pt": "Em breve lançaremos um grupo no WhatsApp e no Wechat para compartilhamento de fotos e sugestões."
     },
 }
