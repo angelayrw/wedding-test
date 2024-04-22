@@ -1,0 +1,12 @@
+{
+    "name": "wedding-angelaandmarcos",
+    "version": "1.0.0",
+    "description": "Our base project for the wedding website",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "author": "Angela",
+    "license": "CC BY-NC-ND"
+  }
+  
