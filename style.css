@@ -220,6 +220,7 @@ nav .nav-toggle{
     flex-direction: row;
     align-items: baseline;
     padding-bottom: 4em;
+    max-width: 600px;
 }
 
 .couple-name h1{
